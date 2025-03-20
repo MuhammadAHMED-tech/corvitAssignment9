@@ -1,0 +1,25 @@
+div{
+    border: 2px solid black;
+    display: inline-block;
+}
+.a{
+    height: 400px;
+    width: 500px;
+    background-color:#0066B3;
+    position: absolute;
+    left: 10px;
+}
+.b{
+    height: 400px;
+    width: 250px;
+    background-color: #FFF200;
+    position: absolute;
+    left: 170px;
+}
+.c{
+    height: 400px;
+    width: 180px;
+    background-color:#ED1C24;
+    position: absolute;
+    left: 340px;
+}
